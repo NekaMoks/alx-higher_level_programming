@@ -9,8 +9,8 @@ class Rectangle:
         """Initialize a new Rectangle.
 
         Args:
-        width (int): The width of a new rectangle.
-        height (init): The height of a new rectangle.
+            width (int): The width of a new rectangle.
+            height (int): The height of a new rectangle.
         """
         self.width = width
         self.height = height
